@@ -14,6 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "cannon": "^0.6.2",
-    "three": "^0.76.1"
+    "three": "^0.76.1",
+    "tone": "^0.6.1"
   }
 }
